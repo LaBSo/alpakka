@@ -1,2 +1,2 @@
 ## Welcome to See Alpakkas
- ![The alpakka](https://github.com/LaBSo/alpakka/blob/master/alpaca2.jpg)
+ ![The alpakka](https://labso.github.com/alpakka/alpaca.jpg)
