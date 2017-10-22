@@ -1,2 +1,3 @@
 ## Welcome to See Alpakkas
- ![The alpakka](https://github.com/LaBSo/alpakka/blob/master/alpaca.jpg =100x20)
+ ![The alpakka](https://github.com/LaBSo/alpakka/blob/master/alpaca.jpg)
+ Format: ![Alt Text](url)
